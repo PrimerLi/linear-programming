@@ -1,3 +1,9 @@
+'''
+CopyRight 2018
+@author Enzhi Li
+All rights reserved. 
+'''
+
 import numpy as np
 import ReadFile
 import Gradient
